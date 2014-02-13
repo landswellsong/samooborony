@@ -25,7 +25,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2007053"
+     inkscape:zoom="1.1003527"
      inkscape:cx="534.12503"
      inkscape:cy="404.78534"
      inkscape:document-units="px"
@@ -35,9 +35,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1060"
-     inkscape:window-x="1918"
+     inkscape:window-width="1338"
+     inkscape:window-height="748"
+     inkscape:window-x="26"
      inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <metadata
@@ -78,7 +78,8 @@
     <a
        id="a2990"
        xlink:href="https://www.facebook.com/Gromvarta"
-       target="_blank">
+       target="_blank"
+       transform="translate(-19.99359,-3.6351982)">
       <image
          y="695.80206"
          x="903.33661"
@@ -112,7 +113,7 @@
          width="80" />
     </a>
     <a
-       transform="translate(-126.60269,-134.97538)"
+       transform="translate(-105.7003,-140.42817)"
        id="a2990-2"
        xlink:href="https://www.facebook.com/groups/261589564018014/"
        target="_blank">
@@ -121,6 +122,32 @@
          x="903.33661"
          id="image2984-7"
          xlink:href="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn2/t1/p80x80/1625716_246177925562930_1313371_n.jpg"
+         height="80"
+         width="80" />
+    </a>
+    <a
+       transform="translate(-270.82227,-148.13433)"
+       target="_blank"
+       xlink:href="https://www.facebook.com/shevvarta"
+       id="a2997">
+      <image
+         width="80"
+         height="80"
+         xlink:href="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/t1/c0.0.160.160/p80x80/1011068_1464520390443466_2032686041_n.jpg"
+         id="image2999"
+         x="903.33661"
+         y="695.80206" />
+    </a>
+    <a
+       id="a3001"
+       xlink:href="https://www.facebook.com/Pecherskavarta"
+       target="_blank"
+       transform="translate(-177.21591,-65.433564)">
+      <image
+         y="695.80206"
+         x="903.33661"
+         id="image3003"
+         xlink:href="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/t1/c105.0.160.160/p80x80/1779924_629739460407431_305865034_n.jpg"
          height="80"
          width="80" />
     </a>
